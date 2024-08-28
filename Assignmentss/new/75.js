@@ -1,4 +1,5 @@
-//75. Can you write a function that takes an array and returns the index of the first occurrence of a given value?
+//75. Can you write a function that takes an array and returns the
+//index of the first occurrence of a given value?
 
 /*let array = [10, 20, 30, 40, 50];
 finIndex(array, 30);
