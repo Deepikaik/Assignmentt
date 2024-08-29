@@ -1,4 +1,5 @@
-//74. Can you write a function that takes an array and returns the sum of all the elements?
+/*74. Can you write a function that takes an array and returns
+the sum of all the elements?*/
 
 let arr = [1, 2, 3, 4, 5];
 let total= arr.reduce(function (acc, cV){
