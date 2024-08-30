@@ -2,8 +2,8 @@
 //index of the first occurrence of a given value?
 
 /*let array = [10, 20, 30, 40, 50];
-finIndex(array, 30);
-let index =function finIndex(arr, value){
+findIndex(array, 30);
+let index =function find Index(arr, value){
     return arr.indexOf(value);
     
 }
